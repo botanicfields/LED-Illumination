@@ -16,6 +16,8 @@ A teaching material for event attendees to learn soldering through hands-on expe
 
 <video controls src="image/IMG_3385.MOV" width=300></video>
 
+https://github.com/user-attachments/assets/4ee0108e-10cf-4abf-8dc3-e0da0d02076e
+
 ## 回路
 
  [回路図](./bf-045_sch.pdf)
